@@ -134,7 +134,7 @@
     "jsonwebtoken": "0.4.0",
     "jssha": "^3.1.1",
     "juicy-chat-bot": "~0.6.0",
-    "libxmljs2": "^0.26.4",
+    "libxmljs2": "^0.35.0",
     "morgan": "^1.10.0",
     
     "node-pre-gyp": "^0.15.0",
